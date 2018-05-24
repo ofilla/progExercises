@@ -61,14 +61,6 @@ class SelbstDeklarierenUndDefinieren {
 }
 ```
 
-# Zuweisung an Variablen
-
-keine Musterlösung vorhanden
-
-# Variablen ändern ihre Werte
-
-keine Musterlösung vorhanden
-
 # Formatierung und Namen
 
  1. Der Code ist nicht lesbar.
