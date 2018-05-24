@@ -18,7 +18,8 @@ Diese Aufgabe stellt eine etwas erweitere Version von HelloWorld dar. Als Vorbil
  1. Als ersten Schritt könnt ihr mit mehreren `System.out.println("...");` erstmal ein wenig herumprobieren und versuchen eine ASCII Graphik, die ihr euch ausgedacht habt, auszugeben. Natürlich könnt ihr auch die aus dem Beispiel nehmen.
 
  2. Als zweiten Schritt könnt ihr probieren, auch etwas Text mit in die Graphik einzubinden, wie in dem ersten Beispiel zu sehen.
-	* Für Mehrdenker: Beachtet, dass wie bei der orginal Cowsay/Cowthink die Länge des Strings auch berücksichtigt wird um den String mit "_" (oder anderen Zeichen) zu unter- bzw oberstreichen.
+
+     * Für Mehrdenker: Beachtet, dass wie bei der orginal Cowsay/Cowthink die Länge des Strings auch berücksichtigt wird um den String mit "_" (oder anderen Zeichen) zu unter- bzw oberstreichen.
 
 ## Hinweise
 
