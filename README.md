@@ -15,4 +15,4 @@ The exercises will be sorted by difficulty. I'm currently using 10 difficulty le
 
 ## german
 
-* <https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben>
+* [https://wiki.freitagsrunde.org/Javakurs/Übungsaufgaben](https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben)
