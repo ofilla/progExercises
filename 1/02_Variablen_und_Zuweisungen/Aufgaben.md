@@ -43,3 +43,7 @@ _ (_,  ___) ) ;System
 
  2. Etwas weniger Extrem: Was ist bei der Formatierung in **Formatierung1.java** schief gelaufen?
  3. Warum ist der Code in **b.java** so schlecht lesbar?
+
+# Quelle
+ 
+<https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben/Variablen_und_Zuweisungen>

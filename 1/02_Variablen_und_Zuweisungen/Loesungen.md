@@ -66,3 +66,7 @@ class SelbstDeklarierenUndDefinieren {
  1. Der Code ist nicht lesbar.
  2. Die Einrückung hat sich verschoben.
  3. Es gibt keine aussagekräftige Namen, sondern nur Buchstaben als Namen.
+
+# Quelle
+ 
+<https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben/Variablen_und_Zuweisungen> 

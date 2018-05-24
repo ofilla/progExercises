@@ -7,3 +7,7 @@
 * Compiliere die soeben entstandene Datei *CompiliereMich.java* mit Hilfe von *javac*: `javac CompiliereMich.java`
 * Führe das Programm in der entstandenen Datei *CompiliereMich.class* mit Hilfe von *java* aus: `java CompiliereMich`
 * Öffne einen Texteditor deiner Wahl. Schreibe ein Programm, das "HalloWelt" auf der Konsole ausgibt und teste es.
+
+# Quelle
+
+<https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben/Von_der_Console_zum_HelloWorld>
