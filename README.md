@@ -2,7 +2,7 @@
 Exercises for programming, usually taken from various sources. If sample solutions are available they will be included.
 Some parts will be german since some sources are german.
 
-The exercises will be sorted by difficulty. I'll use 10 difficulty level. The meanings are taken from [here](https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben#Schwierigkeitsgrade):
+The exercises will be sorted by difficulty. I'm currently using 10 difficulty levels. The meanings are taken from [here](https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben#Schwierigkeitsgrade):
 
 * **1**: Tutorial only, not much thinking needed.
 * **3**: Easy exercise. Insecure students are guided well.
