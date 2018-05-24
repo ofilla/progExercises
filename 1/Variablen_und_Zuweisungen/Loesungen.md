@@ -1,4 +1,4 @@
-== Deklaration und Initialisierung ==
+# Deklaration und Initialisierung
 
  * Deklarationen: Zeilen 3, 4 und 5
  * Initialisierungen: Zeilen 7, 8 und 9
@@ -27,3 +27,50 @@ class DeklarationUndInitialisierung {
 	}
 }
 ```
+
+# Selber Deklarationen und Definitionen durchführen
+
+```java
+class SelbstDeklarierenUndDefinieren {
+	public static void main(String[] args) {
+		// deklariere eine Variable "birnen"  vom Typ int
+		int birnen;
+		
+		// weise ihr den Wert drei zu
+		birnen = 3;
+
+		System.out.println("3 erwartet: " + birnen);
+		// addiere fuenf zu dem Wert
+		birnen += 5;
+		// das ist eine kurze Schreibweise fuer: birnen = birnen + 5;
+
+		System.out.println("8 erwartet: " + birnen);
+		// deklariere eine Variable "aepfel" und weise ihr den Wert fuenf zu
+		int aepfel = 5;
+
+		System.out.println("5 erwartet: " + aepfel);
+		// subtrahiere zwei von dem Wert
+		aepfel -= 2;
+		// auch moeglich: aepfel = aepfel - 2;
+
+
+		System.out.println("3 erwartet: " + aepfel);
+
+		
+	}
+}
+```
+
+# Zuweisung an Variablen
+
+keine Musterlösung vorhanden
+
+# Variablen ändern ihre Werte
+
+keine Musterlösung vorhanden
+
+# Formatierung und Namen
+
+ 1. Der Code ist nicht lesbar.
+ 2. Die Einrückung hat sich verschoben.
+ 3. Es gibt keine aussagekräftige Namen, sondern nur Buchstaben als Namen.
