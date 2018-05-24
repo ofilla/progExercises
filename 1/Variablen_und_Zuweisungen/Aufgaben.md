@@ -5,12 +5,12 @@
  3. Beantworte diese Fragen auch für die Variablen: ''notAWholeNumber'', ''aString'', ''anotherWholeNumber'', ''anotherNotSoWholeNumber'', ''anotherString''
  4. Wenn möglich: erkläre deine Meinung einem Tutor oder diskutiere sie mit einer anderen Person
 
-== Selber Deklarationen und Definitionen durchführen ==
+# Selber Deklarationen und Definitionen durchführen
 
 * Realisiere die Kommentare im folgenden Codestück. 
 * Teste deinen Code.
 
- <nowiki>
+```java
 class SelbstDeklarierenUndDefinieren {
 	public static void main(String[] args) {
 		// deklariere eine Variable "birnen"  vom Typ int
@@ -31,17 +31,17 @@ class SelbstDeklarierenUndDefinieren {
 		
 	}
 }
-</nowiki>
+```
 
-== Zuweisung an Variablen ==
+# Zuweisung an Variablen
 
-* Überlege dir, was für eine Ausgabe der folgende Code erzeugen würde.
-* Compiliere den Code, führe ihn aus und vergleiche das Resultat mit deinen Erwartungen.
-* Was sind die Unterschiede?
-* Diskutiere die Unterschiede mit der Person am Rechner nebenan, oder einem Tutor.
+ 1. Überlege dir, was für eine Ausgabe der folgende Code erzeugen würde.
+ 2. Compiliere den Code, führe ihn aus und vergleiche das Resultat mit deinen Erwartungen.
+ 3. Was sind die Unterschiede?
+ 4. Diskutiere die Unterschiede mit der Person am Rechner nebenan, oder einem Tutor.
 
 
- <nowiki>
+```java
 class ZuweisungenAnVariablen {
 	public static void main(String [] ignored) {
 		System.out.println(0);
@@ -54,18 +54,17 @@ class ZuweisungenAnVariablen {
 		System.out.println(whatsThis);
 	}
 }
-</nowiki>
+```
+
+# Variablen ändern ihre Werte
+
+ 1. Überlege dir, was für eine Ausgabe der folgende Code erzeugen würde.
+ 2. Compiliere den Code, führe ihn aus und vergleiche das Resultat mit deinen Erwartungen.
+ 3. Was sind die Unterschiede?
+ 4. Diskutiere die Unterschiede mit der Person am Rechner nebenan, oder einem Tutor.
 
 
-== Variablen ändern ihre Werte ==
-
-* Überlege dir, was für eine Ausgabe der folgende Code erzeugen würde.
-* Compiliere den Code, führe ihn aus und vergleiche das Resultat mit deinen Erwartungen.
-* Was sind die Unterschiede?
-* Diskutiere die Unterschiede mit der Person am Rechner nebenan, oder einem Tutor.
-
-
- <nowiki>
+```java
 class VariablenAendernIhreWerte {
 	public static void main(String [] ignored) {
 		int number = 1;
@@ -82,14 +81,13 @@ class VariablenAendernIhreWerte {
 		System.out.println(number);
 	}
 }
-</nowiki>
+```
 
+# Formatierung und Namen
 
-== Formatierung und Namen ==
+ 1. Wieso haben wir die Code-Beispiele nach den geschweiften Klammern eingerückt und die Variablen so benannt, wie wir es taten und nicht so:
 
-* Wieso haben wir die Code-Beispiele nach den geschweiften Klammern eingerückt und die Variablen so benannt, wie wir es taten und nicht so:
-
- <nowiki>
+```
 class _{static long _
 (long __,long  ___) {
 return __==0 ?___+ 1:
@@ -101,11 +99,11 @@ static  {int _=2 ,___
 _ (_,  ___) ) ;System
 .exit(1);}}//(C) Ulli
 </nowiki>//nicht lesbar
+```
 
+ 2. Etwas weniger Extrem: Was ist im folgenden Beispiel bei der Formatierung schief gelaufen?
 
-* Etwas weniger Extrem: Was ist im folgenden Beispiel bei der Formatierung schief gelaufen?
-
- <nowiki>
+```java
 class Formatierung1 {public static void main
 	(String [] ignored) {
 	System.out.println(0); int zero = 0;
@@ -116,13 +114,13 @@ class Formatierung1 {public static void main
 		println(whatsThis);
 	whatsThis = one;		System.out.println(whatsThis)
 ;}}
-</nowiki>//Die Einrueckung hat sich verschoben
+//Die Einrueckung hat sich verschoben
+```
 
+ 3. Warum ist der folgende Code so schlecht lesbar?
+ 4. Woran erinnert er dich?
 
-* Warum ist der folgende Code so schlecht lesbar?
-* Woran erinnert er dich?
-
- <nowiki>
+```java
 class b {
 	public static void main(String [] i) {
 		System.out.println(0);
@@ -135,27 +133,4 @@ class b {
 		System.out.println(c);
 	}
 }// Keine Namen nur Buchstaben!
-</nowiki>
-
-== Kommentare ==
-Wenn du Anmerkungen zur Aufgabe hast oder Lob und Kritik loswerden möchtest, ist hier die richtige Stelle dafür. Klicke einfach ganz rechts auf "bearbeiten" und schreibe deinen Kommentar direkt ins Wiki. Keine Scheu, es geht nichts kaputt ;)
-
-<!--
-Als kleine Starthilfe folgt ein Beispiel, wie so ein Kommentar formatiert sein könnte. Mit "Vorschau zeigen" kannst du dir ansehen, was deine Änderung bewirken würde, ohne wirklich etwas zu ändern.
-Du musst übrigens außerhalb dieses auskommentieren Bereichs schreiben ;)
-
-==== Robert ====
-Na mal schauen, ob irgendjemand diese Funktion wirklich benutzt. Ich fände es jedenfalls toll.
--->
-
-[[Kategorie:Java]]
-[[Kategorie:Java_Aufgaben]]
-
-
-
---------------------------------
-Ich finde die Aufgabe "Selber Deklarationen und Definitionen durchführen" echt cool zum lernen also das Pogram nur mit Hilfe von Komentaren zu schreiben. Ist ne coole Übung.
--------
-+1
--------
-Vielen Dank Leute! Die Aufgaben waren sehr Hilfreich!!!
+```
