@@ -24,7 +24,7 @@ Beispiel wie ein Kassenbon aussehen könnte:
  Gesamt                   32.60 EUR
  Gegeben                  50.00 EUR
  
- Zurück                   17.40 EUR
+ Zurueck                  17.40 EUR
 ```
 
 **Hinweis:** Erstellt zuerst die Ausgabe des Kassenbons und füllt sie anschließend mit Berechnungen und der Fallunterscheidung.
