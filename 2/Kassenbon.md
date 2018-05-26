@@ -14,7 +14,7 @@ Beispiel wie ein Kassenbon aussehen könnte:
 ```
  Wurst      1 x  4.20 EUR
                            4.20 EUR
- Käse       1 x  2.30 EUR
+ Kaese      1 x  2.30 EUR
                            2.30 EUR
  Brot       1 x  2.10 EUR
                            2.10 EUR
