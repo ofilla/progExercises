@@ -22,3 +22,6 @@ done
 
 # bold type
 sed -i "s/'''/**/g" $file
+
+# italic type
+echo "italic syntax unchanged, change '' to * manually"
