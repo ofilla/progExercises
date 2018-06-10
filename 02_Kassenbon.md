@@ -33,3 +33,7 @@ Beispiel wie ein Kassenbon aussehen könnte:
 Erstellt eine Kopie eures soeben geschriebenden Programmes.
 
 Verändert das Programm so, dass nun versucht wird, mehrfach Produkte eines Typs (z.B. Wurst) hintereinander zu kaufen, und abgebrochen wird, wenn das Geld für keine weiteren Einkäufe mehr ausreicht. Danach soll für diesen Einkauf der Kassenbon ausgegeben werden.
+
+# Quelle
+
+<http://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben/Kassenbon>

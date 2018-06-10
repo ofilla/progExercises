@@ -48,7 +48,7 @@ Beispiel:
 
 # Quelle
 
-<https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben/Cowsay>
+<http://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben/Cowsay>
 
 # Lösung
 
