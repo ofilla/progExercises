@@ -16,3 +16,12 @@ The exercises will be sorted by difficulty. I'm currently using 10 difficulty le
 ## german
 
 * [https://wiki.freitagsrunde.org/Javakurs/Übungsaufgaben](https://wiki.freitagsrunde.org/Javakurs/%C3%9Cbungsaufgaben)
+
+## english
+
+Kata:
+
+*  http://katas.softwarecraftsmanship.org/
+*  http://codingdojo.org/
+*  http://codekata.pragprog.com/
+*  https://www.youtube.com/watch?v=7RJM3pcMNyo
